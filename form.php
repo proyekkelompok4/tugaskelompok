@@ -2,6 +2,7 @@
 <head>
 	
     <title>Prak1</title>
+	
 </head>
 <body>
 <h2><u>Buku Tamu</u></h2>
@@ -9,6 +10,7 @@
     <table border=0>
     <tr>
         <td><b>Nama</b></td>
+	    //tambah komentar
         <td><Input type=text name=nama></td>
     </tr>
     <tr>
