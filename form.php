@@ -1,6 +1,6 @@
 <html>
 <head>
-	//judul
+	
     <title>Prak1</title>
 </head>
 <body>
