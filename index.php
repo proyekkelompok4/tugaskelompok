@@ -2,7 +2,7 @@
 
     //include class controller
     include "controller/controller.php";
-    //cobasajaaa
+    //cobasajaaaaaa
     
     //variabel main merupakan objek baru yang dibuat dari class controller
     $main = new controller();
